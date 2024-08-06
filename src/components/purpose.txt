@@ -1,0 +1,7 @@
+here we will have the all the modules which we have created 
+
+inital modeules being used will be 
+a. data ingestion data, means = reading data from a database or some other 
+                                file location or from diffrent kind of databases
+                                initially we need to read(reading) the database and is called data injection
+b. data tranformation
